@@ -13,7 +13,7 @@
 [ESPHome Kincony A8S](https://devices.esphome.io/devices/KinCony-KC868-A8S)
 
 ## Lovelace
-[ESPHome Kincony A8S](https://devices.esphome.io/devices/KinCony-KC868-A8S)
+![Lovelace](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/wattmeter_lovelace.png?raw=true)
 
 ## ESPHome code:
 ```
