@@ -12,6 +12,9 @@
 ## Documentation
 [ESPHome Kincony A8S](https://devices.esphome.io/devices/KinCony-KC868-A8S)
 
+## Lovelace
+[ESPHome Kincony A8S](https://devices.esphome.io/devices/KinCony-KC868-A8S)
+
 ## ESPHome code:
 ```
 uart:
