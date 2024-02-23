@@ -27,7 +27,7 @@ modbus:
   id: rs485
 
 modbus_controller:
-  - id: wattmeter_klima
+  - id: wattmeter
     address: 21
     modbus_id: rs485
     setup_priority: -10
@@ -35,9 +35,9 @@ modbus_controller:
 
 sensor:
   - platform: modbus_controller
-    modbus_controller_id: wattmeter_klima
-    name: "klima_power"
-    id: "klima_power"
+    modbus_controller_id: wattmeter
+    name: "power"
+    id: "power"
     address: 0x0012
     register_count: 2
     unit_of_measurement: "W"
@@ -45,9 +45,9 @@ sensor:
     register_type: read
 
   - platform: modbus_controller
-    modbus_controller_id: wattmeter_klima
-    name: "klima_energy"
-    id: "klima_energy"
+    modbus_controller_id: wattmeter
+    name: "energy"
+    id: "energy"
     address: 0x0100
     register_count: 2
     unit_of_measurement: "kWh"
