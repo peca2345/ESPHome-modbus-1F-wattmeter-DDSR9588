@@ -3,8 +3,8 @@
 ![Schema](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/schema.png?raw=true)
 
 ## Components:
-1F DIN WATTMETER DDSR9588 : [SHOP](https://www.aliexpress.com/i/4001201973679.html) 
-Kincony A8S with RS485 : [SHOP](https://www.aliexpress.com/item/1005004345158143.html) 
+- 1F DIN WATTMETER DDSR9588 : [SHOP](https://www.aliexpress.com/i/4001201973679.html)
+- Kincony A8S with RS485 : [SHOP](https://www.aliexpress.com/item/1005004345158143.html)
 
 ## Register table:
 ![table](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/registers.png?raw=true)
