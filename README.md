@@ -1,6 +1,6 @@
 # ESPHome modbus - 1F Wattmeter DDSR9588 RS485
 
-![Schema](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/1fwattmeter_b.png?raw=true)
+![Schema](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/schema.png?raw=true)
 
 ## Components:
 1F DIN WATTMETER DDSR9588 : [SHOP](https://www.aliexpress.com/i/4001201973679.html) 
