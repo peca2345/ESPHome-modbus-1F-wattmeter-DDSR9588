@@ -9,6 +9,9 @@
 ## Register table:
 ![table](https://github.com/peca2345/ESPHome-modbus-1F-wattmeter-DDSR9588/blob/main/IMG/registers.png?raw=true)
 
+## Documentation
+[ESPHome Kincony A8S](https://devices.esphome.io/devices/KinCony-KC868-A8S)
+
 ## ESPHome code:
 ```
 uart:
